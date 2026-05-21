@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# DVC & Data
+data/
+.dvc/config
+.dvc/cache
