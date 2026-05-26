@@ -10,6 +10,6 @@ env/
 .ipynb_checkpoints
 
 # DVC & Data
-data/
-.dvc/config
-.dvc/cache
+#data/
+#.dvc/config
+#.dvc/cache
